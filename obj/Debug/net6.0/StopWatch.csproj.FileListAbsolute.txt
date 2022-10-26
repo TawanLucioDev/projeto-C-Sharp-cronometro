@@ -1,0 +1,15 @@
+C:\Cursos\CursoC#\StopWatch\bin\Debug\net6.0\StopWatch.exe
+C:\Cursos\CursoC#\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+C:\Cursos\CursoC#\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+C:\Cursos\CursoC#\StopWatch\bin\Debug\net6.0\StopWatch.dll
+C:\Cursos\CursoC#\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.dll
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\refint\StopWatch.dll
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
+C:\Cursos\CursoC#\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
